@@ -1,4 +1,4 @@
-s = ["Geeks", "for", "Geeks"]
+practis = ["Geeks", "for", "Geeks"]
 
 print('Starts here')
 
