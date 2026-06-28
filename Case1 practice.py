@@ -1,3 +1,5 @@
+#in case 1 we make a string list and print each character of the string list using for loop
+
 s = [' Geeks, For, Geeks']
 #s is variable which contains string list
 
