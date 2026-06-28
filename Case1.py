@@ -1,14 +1,16 @@
-practis = ["Geeks", "for", "Geeks"]
+s = [' Geeks, For, Geeks']
+#s is variable which contains string list
 
-print('Starts here')
+print('Starting this code here:')
 
-# using for loop with string
+#starting loop to print each character of the string list
+for i in s:
+    print (i)
+    #it will print each character of the string list
+
+    print('This the mid of the code')
+
 for i in s:
     print(i)
 
-print('Mid here')
-
-for i in s:
-    print(i)
-
-print('Close here')
+    print('This is the end of the code')
